@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shubhamkr1
 - 👀 I’m interested in .NET, Reactjs, Javascript, eCommerce, CMS , Cloud , 
      chess , reading all sorts of books 
-- 🌱 I’m currently learning more about JS frameworks, front end frameworks
+- 🌱 I’m currently learning more about JS frameworks, front end frameworks and Azure cloud
 - 💞️ I’m looking to collaborate on - nothing at the moment
 - 📫 How to reach me - shukumarjb@gmail.com
 
